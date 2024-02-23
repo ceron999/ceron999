@@ -1,16 +1,21 @@
-### Hi there 👋
+### 안녕하세요. 정윤석입니다.
 
-<!--
-**ceron999/ceron999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 홍익대학교 컴퓨터공학 전공 (2018 ~ 2025)
+- 홍익대학교 게임 개발 동아리 EXP 프로그래머 (2021 ~ )
 
-Here are some ideas to get you started:
+### 정보
+- 노션 : https://www.notion.so/Jung-YunSeok-Portfolio-b0207ca877fa425493fa2eb33571ea22
+- Email : ceron999@naver.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 기술 스택
+- Unity C#
+- C++
+
+### 개발한 게임
+- 2021 1학기 동아리 프로젝트 "우리 집은 어디에?" / 21.2 ~ 22.9 /
+- 2022 겨울 방학 동아리 프로젝트 "꼬마 성주와 나비 공주" / 21.12 ~ /
+- 2021 동아리 장기 프로젝트 "마녀 약국" / 21.2 ~ /
+- 2022 2학기 동아리 프로젝트 "Ghost" / 22.9 ~ 23.2 /
+- 2022 겨울 방학 동아리 프로젝트 "어서오세요. 카페 24에" / 22.12 ~ 23.7 /
+- 2023 24시간 개발 동아리 프로젝트 "DumBest Letter" / 23.8.7 /
+- 2023 1학기 동아리 프로젝트 "Neo Slahser" / 23.4 ~ 23.11 /
